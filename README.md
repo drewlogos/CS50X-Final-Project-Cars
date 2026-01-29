@@ -1,7 +1,9 @@
 # Cars
+
 ### Video Showcase:  <https://youtu.be/C4jc8pcB5AE>
+
 ### Description:
-A game using Lua with LÖVE
+This is the final project developed for the course "CS50: Introduction to Computer Science" from Harvard Online Courses. It's a short game using Lua language with LÖVE
 
 ### Overview:
 This project is inspired in the old racing games from Atari console. It consists on a Top-down 2D Racing game where the main goal is to get to the finish line and avoid incoming vehicles. In the road there are random bonus item that the player can pick up and increase his score. When the player crashes against other vehicle, the game is over. When the player reaches the finish line the game is won with the current score.
